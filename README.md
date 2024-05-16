@@ -24,5 +24,6 @@ Welcome to the Python Password Generator repository! This simple script generate
    cd -password-generator
 3.Copy the Code to Your Script 
 
-Contributing
+## Contributing
+
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request.
