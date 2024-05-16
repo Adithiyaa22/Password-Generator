@@ -19,8 +19,10 @@ Welcome to the Python Password Generator repository! This simple script generate
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Adithiyaa22/password-generator.git
-
-2.Navigate to the project directory
+2. Navigate to Respository:
    ```bash
-   cd python-password-generator
+   cd -password-generator
+3.Copy the Code to Your Script 
 
+Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request.
